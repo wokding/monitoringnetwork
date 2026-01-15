@@ -4,7 +4,16 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 
+> **⚡ Quick Start**: Ingin langsung mulai? Lihat [QUICKSTART.md](QUICKSTART.md) untuk setup dalam 5 menit!
+
 Sebuah tool monitoring dan pelaporan jaringan komprehensif yang dirancang untuk manajemen infrastruktur jaringan enterprise. Tool ini mengotomatisasi pengumpulan data utilisasi, metrik performa sistem, dan inventori hardware dari peralatan jaringan, menghasilkan laporan Excel profesional dengan analitik yang detail.
+
+## 📚 Dokumentasi
+
+- **[⚡ Quick Start Guide](QUICKSTART.md)** - Setup cepat dalam 5 menit
+- **[🔒 Security Policy](SECURITY.md)** - Panduan keamanan dan best practices
+- **[🤝 Contributing](CONTRIBUTING.md)** - Cara berkontribusi ke project
+- **[📜 License](LICENSE)** - MIT License
 
 ## 🚀 Fitur
 
